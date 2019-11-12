@@ -1,0 +1,3281 @@
+{
+  "570.jpg2615447": {
+    "fileref": "",
+    "size": 2615447,
+    "filename": "570.jpg",
+    "base64_img_data": "",
+    "file_attributes": {},
+    "regions": {
+      "0": {
+        "shape_attributes": {
+          "name": "polygon",
+          "all_points_x": [
+            1675,
+            2464,
+            2509,
+            2611,
+            2344,
+            1903,
+            1698,
+            1675
+          ],
+          "all_points_y": [
+            45,
+            1791,
+            1805,
+            1756,
+            1252,
+            334,
+            13,
+            45
+          ]
+        },
+        "region_attributes": {
+          "Object": "1"
+        }
+      },
+      "1": {
+        "shape_attributes": {
+          "name": "polygon",
+          "all_points_x": [
+            2598,
+            2246,
+            2152,
+            2464,
+            2535,
+            2598
+          ],
+          "all_points_y": [
+            1916,
+            2731,
+            2687,
+            2018,
+            1925,
+            1916
+          ]
+        },
+        "region_attributes": {
+          "Object": "1"
+        }
+      },
+      "2": {
+        "shape_attributes": {
+          "name": "polygon",
+          "all_points_x": [
+            2575,
+            2656,
+            4554,
+            4509,
+            2838,
+            2665,
+            2558,
+            2575
+          ],
+          "all_points_y": [
+            1836,
+            1805,
+            2647,
+            2727,
+            2072,
+            1938,
+            1880,
+            1836
+          ]
+        },
+        "region_attributes": {
+          "Object": "1"
+        }
+      }
+    }
+  },
+  "464.jpg1910588": {
+    "fileref": "",
+    "size": 1910588,
+    "filename": "464.jpg",
+    "base64_img_data": "",
+    "file_attributes": {},
+    "regions": {
+      "0": {
+        "shape_attributes": {
+          "name": "polygon",
+          "all_points_x": [
+            1866,
+            2566,
+            2745,
+            2934,
+            2593,
+            2422,
+            1866
+          ],
+          "all_points_y": [
+            9,
+            996,
+            933,
+            816,
+            422,
+            18,
+            9
+          ]
+        },
+        "region_attributes": {
+          "Object": "1"
+        }
+      },
+      "1": {
+        "shape_attributes": {
+          "name": "polygon",
+          "all_points_x": [
+            4001,
+            5249,
+            5258,
+            4316,
+            3634,
+            3104,
+            3095,
+            3212,
+            3418,
+            3571,
+            4001
+          ],
+          "all_points_y": [
+            852,
+            781,
+            1319,
+            1409,
+            1265,
+            1310,
+            924,
+            906,
+            897,
+            888,
+            852
+          ]
+        },
+        "region_attributes": {
+          "Object": "1"
+        }
+      },
+      "2": {
+        "shape_attributes": {
+          "name": "polygon",
+          "all_points_x": [
+            2073,
+            1848,
+            2252,
+            2404,
+            2413,
+            2198,
+            2073
+          ],
+          "all_points_y": [
+            2306,
+            2952,
+            2943,
+            2602,
+            2207,
+            2315,
+            2306
+          ]
+        },
+        "region_attributes": {
+          "Object": "1"
+        }
+      }
+    }
+  },
+  "541.jpg1635524": {
+    "fileref": "",
+    "size": 1635524,
+    "filename": "541.jpg",
+    "base64_img_data": "",
+    "file_attributes": {},
+    "regions": {
+      "0": {
+        "shape_attributes": {
+          "name": "polygon",
+          "all_points_x": [
+            36,
+            5267,
+            5249,
+            2306,
+            9,
+            36
+          ],
+          "all_points_y": [
+            1337,
+            1157,
+            1785,
+            2180,
+            2431,
+            1337
+          ]
+        },
+        "region_attributes": {
+          "Object": "1"
+        }
+      }
+    }
+  },
+  "571.jpg2607819": {
+    "fileref": "",
+    "size": 2607819,
+    "filename": "571.jpg",
+    "base64_img_data": "",
+    "file_attributes": {},
+    "regions": {
+      "0": {
+        "shape_attributes": {
+          "name": "polygon",
+          "all_points_x": [
+            2108,
+            2162,
+            2270,
+            2418,
+            2557,
+            2665,
+            2606,
+            2108
+          ],
+          "all_points_y": [
+            9,
+            1000,
+            1032,
+            1036,
+            1014,
+            956,
+            9,
+            9
+          ]
+        },
+        "region_attributes": {
+          "Object": "1"
+        }
+      },
+      "1": {
+        "shape_attributes": {
+          "name": "polygon",
+          "all_points_x": [
+            2135,
+            2149,
+            2185,
+            2270,
+            2404,
+            2535,
+            2629,
+            2687,
+            2710,
+            2135
+          ],
+          "all_points_y": [
+            2952,
+            1938,
+            1462,
+            1418,
+            1377,
+            1391,
+            1444,
+            1516,
+            2934,
+            2952
+          ]
+        },
+        "region_attributes": {
+          "Object": "1"
+        }
+      }
+    }
+  },
+  "608.jpg2019327": {
+    "fileref": "",
+    "size": 2019327,
+    "filename": "608.jpg",
+    "base64_img_data": "",
+    "file_attributes": {},
+    "regions": {
+      "0": {
+        "shape_attributes": {
+          "name": "polygon",
+          "all_points_x": [
+            170,
+            5267,
+            5249,
+            2077,
+            893,
+            161,
+            54,
+            22,
+            13,
+            170
+          ],
+          "all_points_y": [
+            1234,
+            1310,
+            2055,
+            2131,
+            1857,
+            1853,
+            1803,
+            1750,
+            1319,
+            1234
+          ]
+        },
+        "region_attributes": {
+          "Object": "1"
+        }
+      }
+    }
+  },
+  "480.jpg3133304": {
+    "fileref": "",
+    "size": 3133304,
+    "filename": "480.jpg",
+    "base64_img_data": "",
+    "file_attributes": {},
+    "regions": {
+      "0": {
+        "shape_attributes": {
+          "name": "polygon",
+          "all_points_x": [
+            5258,
+            2826,
+            2126,
+            1911,
+            2010,
+            2324,
+            3077,
+            4136,
+            4970,
+            5258,
+            5258
+          ],
+          "all_points_y": [
+            1157,
+            1480,
+            1597,
+            1696,
+            1767,
+            1803,
+            1767,
+            1705,
+            1606,
+            1588,
+            1157
+          ]
+        },
+        "region_attributes": {
+          "Object": "1"
+        }
+      }
+    }
+  },
+  "654.jpg2451790": {
+    "fileref": "",
+    "size": 2451790,
+    "filename": "654.jpg",
+    "base64_img_data": "",
+    "file_attributes": {},
+    "regions": {
+      "0": {
+        "shape_attributes": {
+          "name": "polygon",
+          "all_points_x": [
+            1157,
+            2122,
+            2158,
+            2256,
+            2274,
+            2234,
+            2212,
+            2198,
+            1898,
+            821,
+            866,
+            956,
+            1157
+          ],
+          "all_points_y": [
+            350,
+            1270,
+            1346,
+            1458,
+            1498,
+            1521,
+            1557,
+            1552,
+            1265,
+            103,
+            85,
+            148,
+            350
+          ]
+        },
+        "region_attributes": {
+          "Object": "1"
+        }
+      },
+      "1": {
+        "shape_attributes": {
+          "name": "polygon",
+          "all_points_x": [
+            2167,
+            2037,
+            1669,
+            1759,
+            2185,
+            2162,
+            2167
+          ],
+          "all_points_y": [
+            1673,
+            1826,
+            2817,
+            2844,
+            1866,
+            1817,
+            1673
+          ]
+        },
+        "region_attributes": {
+          "Object": "1"
+        }
+      },
+      "2": {
+        "shape_attributes": {
+          "name": "polygon",
+          "all_points_x": [
+            2315,
+            2328,
+            2481,
+            2669,
+            3975,
+            4078,
+            3988,
+            3656,
+            2494,
+            2315
+          ],
+          "all_points_y": [
+            1476,
+            1593,
+            1566,
+            1593,
+            1328,
+            1270,
+            1261,
+            1296,
+            1440,
+            1476
+          ]
+        },
+        "region_attributes": {
+          "Object": "1"
+        }
+      }
+    }
+  },
+  "484.jpg1486194": {
+    "fileref": "",
+    "size": 1486194,
+    "filename": "484.jpg",
+    "base64_img_data": "",
+    "file_attributes": {},
+    "regions": {
+      "0": {
+        "shape_attributes": {
+          "name": "polygon",
+          "all_points_x": [
+            2198,
+            2449,
+            2557,
+            2701,
+            2772,
+            2907,
+            2808,
+            2198
+          ],
+          "all_points_y": [
+            9,
+            368,
+            368,
+            332,
+            260,
+            153,
+            9,
+            9
+          ]
+        },
+        "region_attributes": {
+          "Object": "1"
+        }
+      },
+      "1": {
+        "shape_attributes": {
+          "name": "polygon",
+          "all_points_x": [
+            2440,
+            2144,
+            1839,
+            1552,
+            2019,
+            2485,
+            2683,
+            2880,
+            2781,
+            2530,
+            2440
+          ],
+          "all_points_y": [
+            691,
+            1516,
+            2162,
+            2934,
+            2952,
+            1785,
+            1355,
+            843,
+            727,
+            628,
+            691
+          ]
+        },
+        "region_attributes": {
+          "Object": "1"
+        }
+      },
+      "2": {
+        "shape_attributes": {
+          "name": "polygon",
+          "all_points_x": [
+            3068,
+            3580,
+            5258,
+            4333,
+            3517,
+            3122,
+            3068
+          ],
+          "all_points_y": [
+            135,
+            9,
+            18,
+            404,
+            153,
+            188,
+            135
+          ]
+        },
+        "region_attributes": {
+          "Object": "1"
+        }
+      }
+    }
+  },
+  "601.jpg6558851": {
+    "fileref": "",
+    "size": 6558851,
+    "filename": "601.jpg",
+    "base64_img_data": "",
+    "file_attributes": {},
+    "regions": {
+      "0": {
+        "shape_attributes": {
+          "name": "polygon",
+          "all_points_x": [
+            1436,
+            1660,
+            3544,
+            4477,
+            2521,
+            1436
+          ],
+          "all_points_y": [
+            2943,
+            2449,
+            27,
+            27,
+            2952,
+            2943
+          ]
+        },
+        "region_attributes": {
+          "Object": "1"
+        }
+      }
+    }
+  },
+  "525.jpg6703486": {
+    "fileref": "",
+    "size": 6703486,
+    "filename": "525.jpg",
+    "base64_img_data": "",
+    "file_attributes": {},
+    "regions": {
+      "0": {
+        "shape_attributes": {
+          "name": "polygon",
+          "all_points_x": [
+            18,
+            467,
+            1624,
+            1687,
+            1678,
+            36,
+            18
+          ],
+          "all_points_y": [
+            520,
+            467,
+            619,
+            493,
+            9,
+            9,
+            520
+          ]
+        },
+        "region_attributes": {
+          "Object": "1"
+        }
+      },
+      "1": {
+        "shape_attributes": {
+          "name": "polygon",
+          "all_points_x": [
+            2862,
+            2090,
+            2225,
+            2503,
+            2862,
+            3427,
+            4190,
+            2988,
+            2862
+          ],
+          "all_points_y": [
+            2656,
+            906,
+            807,
+            727,
+            583,
+            1794,
+            2943,
+            2952,
+            2656
+          ]
+        },
+        "region_attributes": {
+          "Object": "1"
+        }
+      }
+    }
+  },
+  "600.jpg2645394": {
+    "fileref": "",
+    "size": 2645394,
+    "filename": "600.jpg",
+    "base64_img_data": "",
+    "file_attributes": {},
+    "regions": {
+      "0": {
+        "shape_attributes": {
+          "name": "polygon",
+          "all_points_x": [
+            1319,
+            3840,
+            4549,
+            2126,
+            1319
+          ],
+          "all_points_y": [
+            2925,
+            9,
+            18,
+            2961,
+            2925
+          ]
+        },
+        "region_attributes": {
+          "Object": "1"
+        }
+      }
+    }
+  },
+  "645.jpg3194249": {
+    "fileref": "",
+    "size": 3194249,
+    "filename": "645.jpg",
+    "base64_img_data": "",
+    "file_attributes": {},
+    "regions": {
+      "0": {
+        "shape_attributes": {
+          "name": "polygon",
+          "all_points_x": [
+            2485,
+            2651,
+            2781,
+            2719,
+            2548,
+            2485
+          ],
+          "all_points_y": [
+            13,
+            731,
+            695,
+            507,
+            9,
+            13
+          ]
+        },
+        "region_attributes": {
+          "Object": "1"
+        }
+      },
+      "1": {
+        "shape_attributes": {
+          "name": "polygon",
+          "all_points_x": [
+            2795,
+            3001,
+            3755,
+            3934,
+            3858,
+            3625,
+            2880,
+            2813,
+            2692,
+            2714,
+            2745,
+            2795
+          ],
+          "all_points_y": [
+            758,
+            938,
+            1646,
+            1835,
+            1826,
+            1642,
+            1041,
+            938,
+            803,
+            758,
+            740,
+            758
+          ]
+        },
+        "region_attributes": {
+          "Object": "1"
+        }
+      },
+      "2": {
+        "shape_attributes": {
+          "name": "polygon",
+          "all_points_x": [
+            2669,
+            2611,
+            2579,
+            2588,
+            2759,
+            2714,
+            2669
+          ],
+          "all_points_y": [
+            857,
+            947,
+            1243,
+            1462,
+            879,
+            839,
+            857
+          ]
+        },
+        "region_attributes": {
+          "Object": "1"
+        }
+      }
+    }
+  },
+  "553.jpg6587453": {
+    "fileref": "",
+    "size": 6587453,
+    "filename": "553.jpg",
+    "base64_img_data": "",
+    "file_attributes": {},
+    "regions": {
+      "0": {
+        "shape_attributes": {
+          "name": "polygon",
+          "all_points_x": [
+            0,
+            1005,
+            2180,
+            1857,
+            1032,
+            700,
+            547,
+            359,
+            153,
+            0,
+            0
+          ],
+          "all_points_y": [
+            583,
+            2952,
+            2952,
+            2252,
+            1148,
+            350,
+            278,
+            296,
+            386,
+            511,
+            583
+          ]
+        },
+        "region_attributes": {
+          "Object": "1"
+        }
+      }
+    }
+  },
+  "521.jpg6437552": {
+    "fileref": "",
+    "size": 6437552,
+    "filename": "521.jpg",
+    "base64_img_data": "",
+    "file_attributes": {},
+    "regions": {
+      "0": {
+        "shape_attributes": {
+          "name": "polygon",
+          "all_points_x": [
+            5231,
+            27,
+            27,
+            5249,
+            5231
+          ],
+          "all_points_y": [
+            1193,
+            799,
+            2162,
+            2790,
+            1193
+          ]
+        },
+        "region_attributes": {
+          "Object": "1"
+        }
+      }
+    }
+  },
+  "502.jpg6464020": {
+    "fileref": "",
+    "size": 6464020,
+    "filename": "502.jpg",
+    "base64_img_data": "",
+    "file_attributes": {},
+    "regions": {
+      "0": {
+        "shape_attributes": {
+          "name": "polygon",
+          "all_points_x": [
+            4,
+            5249,
+            5249,
+            3001,
+            4,
+            4
+          ],
+          "all_points_y": [
+            610,
+            888,
+            2736,
+            2440,
+            2001,
+            610
+          ]
+        },
+        "region_attributes": {
+          "Object": "1"
+        }
+      }
+    }
+  },
+  "629.jpg6464020": {
+    "fileref": "",
+    "size": 6464020,
+    "filename": "629.jpg",
+    "base64_img_data": "",
+    "file_attributes": {},
+    "regions": {
+      "0": {
+        "shape_attributes": {
+          "name": "polygon",
+          "all_points_x": [
+            9,
+            5249,
+            5267,
+            18,
+            9
+          ],
+          "all_points_y": [
+            601,
+            915,
+            2745,
+            2019,
+            601
+          ]
+        },
+        "region_attributes": {
+          "Object": "1"
+        }
+      }
+    }
+  },
+  "538.jpg6510088": {
+    "fileref": "",
+    "size": 6510088,
+    "filename": "538.jpg",
+    "base64_img_data": "",
+    "file_attributes": {},
+    "regions": {
+      "0": {
+        "shape_attributes": {
+          "name": "polygon",
+          "all_points_x": [
+            1561,
+            2853,
+            3750,
+            2575,
+            1561
+          ],
+          "all_points_y": [
+            9,
+            2952,
+            2925,
+            36,
+            9
+          ]
+        },
+        "region_attributes": {
+          "Object": "1"
+        }
+      }
+    }
+  },
+  "634.jpg3063603": {
+    "fileref": "",
+    "size": 3063603,
+    "filename": "634.jpg",
+    "base64_img_data": "",
+    "file_attributes": {},
+    "regions": {
+      "0": {
+        "shape_attributes": {
+          "name": "polygon",
+          "all_points_x": [
+            2144,
+            2216,
+            4019,
+            4226,
+            4235,
+            2431,
+            2144
+          ],
+          "all_points_y": [
+            2943,
+            2692,
+            709,
+            565,
+            664,
+            2934,
+            2943
+          ]
+        },
+        "region_attributes": {
+          "Object": "1"
+        }
+      }
+    }
+  },
+  "659.jpg2175965": {
+    "fileref": "",
+    "size": 2175965,
+    "filename": "659.jpg",
+    "base64_img_data": "",
+    "file_attributes": {},
+    "regions": {
+      "0": {
+        "shape_attributes": {
+          "name": "polygon",
+          "all_points_x": [
+            1821,
+            2476,
+            3705,
+            5258,
+            5249,
+            2889,
+            1821
+          ],
+          "all_points_y": [
+            2943,
+            1516,
+            0,
+            18,
+            359,
+            2952,
+            2943
+          ]
+        },
+        "region_attributes": {
+          "Object": "1"
+        }
+      }
+    }
+  },
+  "652.jpg3161062": {
+    "fileref": "",
+    "size": 3161062,
+    "filename": "652.jpg",
+    "base64_img_data": "",
+    "file_attributes": {},
+    "regions": {
+      "0": {
+        "shape_attributes": {
+          "name": "polygon",
+          "all_points_x": [
+            2727,
+            2575,
+            2817,
+            3167,
+            2997,
+            2727
+          ],
+          "all_points_y": [
+            27,
+            2943,
+            2970,
+            36,
+            0,
+            27
+          ]
+        },
+        "region_attributes": {
+          "Object": "1"
+        }
+      }
+    }
+  },
+  "668.jpg2479082": {
+    "fileref": "",
+    "size": 2479082,
+    "filename": "668.jpg",
+    "base64_img_data": "",
+    "file_attributes": {},
+    "regions": {
+      "0": {
+        "shape_attributes": {
+          "name": "polygon",
+          "all_points_x": [
+            476,
+            1256,
+            1664,
+            1750,
+            1839,
+            1951,
+            2023,
+            1772,
+            1368,
+            637,
+            476
+          ],
+          "all_points_y": [
+            13,
+            633,
+            906,
+            982,
+            924,
+            870,
+            825,
+            664,
+            435,
+            9,
+            13
+          ]
+        },
+        "region_attributes": {
+          "Object": "1"
+        }
+      },
+      "1": {
+        "shape_attributes": {
+          "name": "polygon",
+          "all_points_x": [
+            2117,
+            2400,
+            2750,
+            2256,
+            2189,
+            2055,
+            2005,
+            1992,
+            2117
+          ],
+          "all_points_y": [
+            588,
+            0,
+            4,
+            1000,
+            1036,
+            1009,
+            956,
+            848,
+            588
+          ]
+        },
+        "region_attributes": {
+          "Object": "1"
+        }
+      },
+      "2": {
+        "shape_attributes": {
+          "name": "polygon",
+          "all_points_x": [
+            2122,
+            1992,
+            2274,
+            2360,
+            2494,
+            2781,
+            2602,
+            2467,
+            2122
+          ],
+          "all_points_y": [
+            1709,
+            1247,
+            1175,
+            1503,
+            1857,
+            2952,
+            2943,
+            2916,
+            1709
+          ]
+        },
+        "region_attributes": {
+          "Object": "1"
+        }
+      },
+      "3": {
+        "shape_attributes": {
+          "name": "polygon",
+          "all_points_x": [
+            2247,
+            2203,
+            2225,
+            2292,
+            2288,
+            2247
+          ],
+          "all_points_y": [
+            103,
+            242,
+            345,
+            224,
+            85,
+            103
+          ]
+        },
+        "region_attributes": {
+          "Object": "1"
+        }
+      },
+      "4": {
+        "shape_attributes": {
+          "name": "polygon",
+          "all_points_x": [
+            2239,
+            2216,
+            2288,
+            2337,
+            2239
+          ],
+          "all_points_y": [
+            4,
+            54,
+            85,
+            4,
+            4
+          ]
+        },
+        "region_attributes": {
+          "Object": "1"
+        }
+      }
+    }
+  },
+  "473.jpg6538802": {
+    "fileref": "",
+    "size": 6538802,
+    "filename": "473.jpg",
+    "base64_img_data": "",
+    "file_attributes": {},
+    "regions": {
+      "0": {
+        "shape_attributes": {
+          "name": "polygon",
+          "all_points_x": [
+            5240,
+            9,
+            18,
+            4872,
+            5258,
+            5240
+          ],
+          "all_points_y": [
+            1346,
+            888,
+            2001,
+            2557,
+            2566,
+            1346
+          ]
+        },
+        "region_attributes": {
+          "Object": "1"
+        }
+      }
+    }
+  },
+  "479.jpg6678637": {
+    "fileref": "",
+    "size": 6678637,
+    "filename": "479.jpg",
+    "base64_img_data": "",
+    "file_attributes": {},
+    "regions": {
+      "0": {
+        "shape_attributes": {
+          "name": "polygon",
+          "all_points_x": [
+            511,
+            1606,
+            2817,
+            4333,
+            2404,
+            511
+          ],
+          "all_points_y": [
+            2943,
+            1516,
+            18,
+            18,
+            2925,
+            2943
+          ]
+        },
+        "region_attributes": {
+          "Object": "1"
+        }
+      }
+    }
+  },
+  "675.jpg1764433": {
+    "fileref": "",
+    "size": 1764433,
+    "filename": "675.jpg",
+    "base64_img_data": "",
+    "file_attributes": {},
+    "regions": {
+      "0": {
+        "shape_attributes": {
+          "name": "polygon",
+          "all_points_x": [
+            2288,
+            2382,
+            2400,
+            2436,
+            2575,
+            2512,
+            2396,
+            2288
+          ],
+          "all_points_y": [
+            13,
+            610,
+            709,
+            713,
+            695,
+            404,
+            0,
+            13
+          ]
+        },
+        "region_attributes": {
+          "Object": "1"
+        }
+      },
+      "1": {
+        "shape_attributes": {
+          "name": "polygon",
+          "all_points_x": [
+            2422,
+            2400,
+            2369,
+            2418,
+            2454,
+            2553,
+            2566,
+            2499,
+            2422
+          ],
+          "all_points_y": [
+            893,
+            1157,
+            2198,
+            2216,
+            2064,
+            1180,
+            978,
+            857,
+            893
+          ]
+        },
+        "region_attributes": {
+          "Object": "1"
+        }
+      },
+      "2": {
+        "shape_attributes": {
+          "name": "polygon",
+          "all_points_x": [
+            2719,
+            2983,
+            3382,
+            4181,
+            4028,
+            2647,
+            2570,
+            2463,
+            2458,
+            2472,
+            2521,
+            2575,
+            2719
+          ],
+          "all_points_y": [
+            870,
+            1121,
+            1480,
+            2207,
+            2234,
+            1126,
+            969,
+            830,
+            785,
+            754,
+            740,
+            731,
+            870
+          ]
+        },
+        "region_attributes": {
+          "Object": "1"
+        }
+      }
+    }
+  },
+  "567.jpg6602762": {
+    "fileref": "",
+    "size": 6602762,
+    "filename": "567.jpg",
+    "base64_img_data": "",
+    "file_attributes": {},
+    "regions": {
+      "0": {
+        "shape_attributes": {
+          "name": "polygon",
+          "all_points_x": [
+            36,
+            5240,
+            5249,
+            4172,
+            2413,
+            27,
+            36
+          ],
+          "all_points_y": [
+            691,
+            1211,
+            2055,
+            1956,
+            2171,
+            1902,
+            691
+          ]
+        },
+        "region_attributes": {
+          "Object": "1"
+        }
+      }
+    }
+  },
+  "463.jpg6673546": {
+    "fileref": "",
+    "size": 6673546,
+    "filename": "463.jpg",
+    "base64_img_data": "",
+    "file_attributes": {},
+    "regions": {
+      "0": {
+        "shape_attributes": {
+          "name": "polygon",
+          "all_points_x": [
+            1391,
+            2557,
+            3364,
+            2252,
+            1391
+          ],
+          "all_points_y": [
+            9,
+            2916,
+            2925,
+            18,
+            9
+          ]
+        },
+        "region_attributes": {
+          "Object": "1"
+        }
+      }
+    }
+  },
+  "650.jpg6903641": {
+    "fileref": "",
+    "size": 6903641,
+    "filename": "650.jpg",
+    "base64_img_data": "",
+    "file_attributes": {},
+    "regions": {
+      "0": {
+        "shape_attributes": {
+          "name": "polygon",
+          "all_points_x": [
+            27,
+            843,
+            2028,
+            1929,
+            1696,
+            637,
+            18,
+            27
+          ],
+          "all_points_y": [
+            861,
+            996,
+            1121,
+            1983,
+            1956,
+            1839,
+            1911,
+            861
+          ]
+        },
+        "region_attributes": {
+          "Object": "1"
+        }
+      },
+      "1": {
+        "shape_attributes": {
+          "name": "polygon",
+          "all_points_x": [
+            3176,
+            2512,
+            2772,
+            2997,
+            3185,
+            4145,
+            3176
+          ],
+          "all_points_y": [
+            9,
+            906,
+            987,
+            1157,
+            1391,
+            18,
+            9
+          ]
+        },
+        "region_attributes": {
+          "Object": "1"
+        }
+      },
+      "2": {
+        "shape_attributes": {
+          "name": "polygon",
+          "all_points_x": [
+            2404,
+            3185,
+            3598,
+            2647,
+            2404
+          ],
+          "all_points_y": [
+            2315,
+            1983,
+            2943,
+            2943,
+            2315
+          ]
+        },
+        "region_attributes": {
+          "Object": "1"
+        }
+      }
+    }
+  },
+  "443.jpg6952004": {
+    "fileref": "",
+    "size": 6952004,
+    "filename": "443.jpg",
+    "base64_img_data": "",
+    "file_attributes": {},
+    "regions": {
+      "0": {
+        "shape_attributes": {
+          "name": "polygon",
+          "all_points_x": [
+            27,
+            5258,
+            5267,
+            4872,
+            9,
+            27
+          ],
+          "all_points_y": [
+            341,
+            879,
+            2055,
+            2099,
+            1444,
+            341
+          ]
+        },
+        "region_attributes": {
+          "Object": "1"
+        }
+      }
+    }
+  },
+  "504.jpg6574135": {
+    "fileref": "",
+    "size": 6574135,
+    "filename": "504.jpg",
+    "base64_img_data": "",
+    "file_attributes": {},
+    "regions": {
+      "0": {
+        "shape_attributes": {
+          "name": "polygon",
+          "all_points_x": [
+            1175,
+            3212,
+            4585,
+            2135,
+            1175
+          ],
+          "all_points_y": [
+            9,
+            2943,
+            2970,
+            9,
+            9
+          ]
+        },
+        "region_attributes": {
+          "Object": "1"
+        }
+      }
+    }
+  },
+  "612.jpg1861787": {
+    "fileref": "",
+    "size": 1861787,
+    "filename": "612.jpg",
+    "base64_img_data": "",
+    "file_attributes": {},
+    "regions": {
+      "0": {
+        "shape_attributes": {
+          "name": "polygon",
+          "all_points_x": [
+            938,
+            1431,
+            1848,
+            1969,
+            2144,
+            2001,
+            1839,
+            1548,
+            938
+          ],
+          "all_points_y": [
+            4,
+            619,
+            1099,
+            1018,
+            893,
+            736,
+            516,
+            13,
+            4
+          ]
+        },
+        "region_attributes": {
+          "Object": "1"
+        }
+      },
+      "1": {
+        "shape_attributes": {
+          "name": "polygon",
+          "all_points_x": [
+            2588,
+            5240,
+            5249,
+            3548,
+            2867,
+            2499,
+            2481,
+            2373,
+            2360,
+            2588
+          ],
+          "all_points_y": [
+            947,
+            628,
+            1023,
+            1337,
+            1261,
+            1305,
+            1211,
+            1104,
+            969,
+            947
+          ]
+        },
+        "region_attributes": {
+          "Object": "1"
+        }
+      },
+      "2": {
+        "shape_attributes": {
+          "name": "polygon",
+          "all_points_x": [
+            1606,
+            1373,
+            1157,
+            1579,
+            1750,
+            1579,
+            1705,
+            1606
+          ],
+          "all_points_y": [
+            1938,
+            2270,
+            2934,
+            2952,
+            2557,
+            2557,
+            2171,
+            1938
+          ]
+        },
+        "region_attributes": {
+          "Object": "1"
+        }
+      }
+    }
+  },
+  "471.jpg2653598": {
+    "fileref": "",
+    "size": 2653598,
+    "filename": "471.jpg",
+    "base64_img_data": "",
+    "file_attributes": {},
+    "regions": {
+      "0": {
+        "shape_attributes": {
+          "name": "polygon",
+          "all_points_x": [
+            1232,
+            3673,
+            4241,
+            1932,
+            1148,
+            1232
+          ],
+          "all_points_y": [
+            2865,
+            6,
+            12,
+            2961,
+            2943,
+            2865
+          ]
+        },
+        "region_attributes": {
+          "Object": "1"
+        }
+      }
+    }
+  },
+  "575.jpg6592440": {
+    "fileref": "",
+    "size": 6592440,
+    "filename": "575.jpg",
+    "base64_img_data": "",
+    "file_attributes": {},
+    "regions": {
+      "0": {
+        "shape_attributes": {
+          "name": "polygon",
+          "all_points_x": [
+            1498,
+            2692,
+            3508,
+            2413,
+            1498
+          ],
+          "all_points_y": [
+            27,
+            2961,
+            2925,
+            9,
+            27
+          ]
+        },
+        "region_attributes": {
+          "Object": "1"
+        }
+      }
+    }
+  },
+  "588.jpg6119745": {
+    "fileref": "",
+    "size": 6119745,
+    "filename": "588.jpg",
+    "base64_img_data": "",
+    "file_attributes": {},
+    "regions": {
+      "0": {
+        "shape_attributes": {
+          "name": "polygon",
+          "all_points_x": [
+            27,
+            5051,
+            5267,
+            5258,
+            4387,
+            27,
+            27
+          ],
+          "all_points_y": [
+            772,
+            1211,
+            1265,
+            2270,
+            2396,
+            1830,
+            772
+          ]
+        },
+        "region_attributes": {
+          "Object": "1"
+        }
+      }
+    }
+  },
+  "632.jpg6611302": {
+    "fileref": "",
+    "size": 6611302,
+    "filename": "632.jpg",
+    "base64_img_data": "",
+    "file_attributes": {},
+    "regions": {
+      "0": {
+        "shape_attributes": {
+          "name": "polygon",
+          "all_points_x": [
+            1175,
+            3203,
+            4656,
+            2315,
+            1175
+          ],
+          "all_points_y": [
+            18,
+            2934,
+            2952,
+            27,
+            18
+          ]
+        },
+        "region_attributes": {
+          "Object": "1"
+        }
+      }
+    }
+  },
+  "586.jpg6777167": {
+    "fileref": "",
+    "size": 6777167,
+    "filename": "586.jpg",
+    "base64_img_data": "",
+    "file_attributes": {},
+    "regions": {
+      "0": {
+        "shape_attributes": {
+          "name": "polygon",
+          "all_points_x": [
+            1759,
+            2862,
+            3024,
+            3257,
+            3580,
+            3652,
+            3176,
+            2952,
+            1759
+          ],
+          "all_points_y": [
+            27,
+            2180,
+            2297,
+            2288,
+            2010,
+            1857,
+            996,
+            18,
+            27
+          ]
+        },
+        "region_attributes": {
+          "Object": "1"
+        }
+      }
+    }
+  },
+  "688.jpg1749624": {
+    "fileref": "",
+    "size": 1749624,
+    "filename": "688.jpg",
+    "base64_img_data": "",
+    "file_attributes": {},
+    "regions": {
+      "0": {
+        "shape_attributes": {
+          "name": "polygon",
+          "all_points_x": [
+            3356,
+            3041,
+            1974,
+            2485,
+            4055,
+            3356
+          ],
+          "all_points_y": [
+            9,
+            538,
+            2943,
+            2952,
+            27,
+            9
+          ]
+        },
+        "region_attributes": {
+          "Object": "1"
+        }
+      }
+    }
+  },
+  "637.jpg6361555": {
+    "fileref": "",
+    "size": 6361555,
+    "filename": "637.jpg",
+    "base64_img_data": "",
+    "file_attributes": {},
+    "regions": {
+      "0": {
+        "shape_attributes": {
+          "name": "polygon",
+          "all_points_x": [
+            9,
+            1821,
+            4266,
+            5240,
+            5249,
+            4441,
+            13,
+            9
+          ],
+          "all_points_y": [
+            1018,
+            1171,
+            1431,
+            1561,
+            2539,
+            2445,
+            1853,
+            1018
+          ]
+        },
+        "region_attributes": {
+          "Object": "1"
+        }
+      }
+    }
+  },
+  "647.jpg6841929": {
+    "fileref": "",
+    "size": 6841929,
+    "filename": "647.jpg",
+    "base64_img_data": "",
+    "file_attributes": {},
+    "regions": {
+      "0": {
+        "shape_attributes": {
+          "name": "polygon",
+          "all_points_x": [
+            18,
+            5258,
+            5258,
+            27,
+            18
+          ],
+          "all_points_y": [
+            269,
+            915,
+            2243,
+            1489,
+            269
+          ]
+        },
+        "region_attributes": {
+          "Object": "1"
+        }
+      }
+    }
+  },
+  "583.jpg6695395": {
+    "fileref": "",
+    "size": 6695395,
+    "filename": "583.jpg",
+    "base64_img_data": "",
+    "file_attributes": {},
+    "regions": {
+      "0": {
+        "shape_attributes": {
+          "name": "polygon",
+          "all_points_x": [
+            1005,
+            2781,
+            3858,
+            3661,
+            3230,
+            2665,
+            1005
+          ],
+          "all_points_y": [
+            9,
+            2925,
+            2961,
+            2683,
+            915,
+            18,
+            9
+          ]
+        },
+        "region_attributes": {
+          "Object": "1"
+        }
+      }
+    }
+  },
+  "649.jpg6647152": {
+    "fileref": "",
+    "size": 6647152,
+    "filename": "649.jpg",
+    "base64_img_data": "",
+    "file_attributes": {},
+    "regions": {
+      "0": {
+        "shape_attributes": {
+          "name": "polygon",
+          "all_points_x": [
+            1319,
+            3131,
+            4324,
+            1920,
+            1319
+          ],
+          "all_points_y": [
+            27,
+            2934,
+            2952,
+            18,
+            27
+          ]
+        },
+        "region_attributes": {
+          "Object": "1"
+        }
+      }
+    }
+  },
+  "530.jpg1702146": {
+    "fileref": "",
+    "size": 1702146,
+    "filename": "530.jpg",
+    "base64_img_data": "",
+    "file_attributes": {},
+    "regions": {
+      "0": {
+        "shape_attributes": {
+          "name": "polygon",
+          "all_points_x": [
+            1525,
+            2099,
+            2144,
+            2212,
+            2265,
+            2126,
+            1978,
+            1938,
+            1525
+          ],
+          "all_points_y": [
+            9,
+            731,
+            745,
+            709,
+            610,
+            435,
+            63,
+            9,
+            9
+          ]
+        },
+        "region_attributes": {
+          "Object": "1"
+        }
+      },
+      "1": {
+        "shape_attributes": {
+          "name": "polygon",
+          "all_points_x": [
+            2297,
+            2916,
+            3638,
+            3880,
+            2786,
+            2629,
+            2570,
+            2364,
+            2301,
+            2297
+          ],
+          "all_points_y": [
+            574,
+            296,
+            4,
+            13,
+            655,
+            659,
+            637,
+            633,
+            633,
+            574
+          ]
+        },
+        "region_attributes": {
+          "Object": "1"
+        }
+      },
+      "2": {
+        "shape_attributes": {
+          "name": "polygon",
+          "all_points_x": [
+            2090,
+            2301,
+            1669,
+            1534,
+            1996,
+            2059,
+            2090
+          ],
+          "all_points_y": [
+            816,
+            884,
+            2943,
+            2943,
+            1283,
+            956,
+            816
+          ]
+        },
+        "region_attributes": {
+          "Object": "1"
+        }
+      }
+    }
+  },
+  "679.jpg6675568": {
+    "fileref": "",
+    "size": 6675568,
+    "filename": "679.jpg",
+    "base64_img_data": "",
+    "file_attributes": {},
+    "regions": {
+      "0": {
+        "shape_attributes": {
+          "name": "polygon",
+          "all_points_x": [
+            3840,
+            1498,
+            2611,
+            4468,
+            3840
+          ],
+          "all_points_y": [
+            9,
+            2925,
+            2943,
+            27,
+            9
+          ]
+        },
+        "region_attributes": {
+          "Object": "1"
+        }
+      }
+    }
+  },
+  "590.jpg2566527": {
+    "fileref": "",
+    "size": 2566527,
+    "filename": "590.jpg",
+    "base64_img_data": "",
+    "file_attributes": {},
+    "regions": {
+      "0": {
+        "shape_attributes": {
+          "name": "polygon",
+          "all_points_x": [
+            13,
+            1480,
+            2113,
+            2584,
+            2624,
+            2431,
+            2014,
+            1211,
+            193,
+            0,
+            13
+          ],
+          "all_points_y": [
+            1409,
+            1440,
+            1503,
+            1601,
+            1642,
+            1785,
+            1983,
+            2149,
+            2292,
+            2310,
+            1409
+          ]
+        },
+        "region_attributes": {
+          "Object": "1"
+        }
+      }
+    }
+  },
+  "602.jpg6720451": {
+    "fileref": "",
+    "size": 6720451,
+    "filename": "602.jpg",
+    "base64_img_data": "",
+    "file_attributes": {},
+    "regions": {
+      "0": {
+        "shape_attributes": {
+          "name": "polygon",
+          "all_points_x": [
+            27,
+            161,
+            1032,
+            1723,
+            1606,
+            1552,
+            54,
+            27
+          ],
+          "all_points_y": [
+            601,
+            637,
+            422,
+            413,
+            278,
+            9,
+            9,
+            601
+          ]
+        },
+        "region_attributes": {
+          "Object": "1"
+        }
+      },
+      "1": {
+        "shape_attributes": {
+          "name": "polygon",
+          "all_points_x": [
+            2449,
+            2907,
+            3957,
+            3580,
+            2826,
+            2485,
+            2387,
+            2198,
+            1884,
+            2055,
+            2073,
+            2279,
+            2449
+          ],
+          "all_points_y": [
+            1848,
+            2952,
+            2952,
+            2090,
+            1148,
+            386,
+            341,
+            341,
+            583,
+            799,
+            987,
+            1427,
+            1848
+          ]
+        },
+        "region_attributes": {
+          "Object": "1"
+        }
+      }
+    }
+  },
+  "681.jpg6732013": {
+    "fileref": "",
+    "size": 6732013,
+    "filename": "681.jpg",
+    "base64_img_data": "",
+    "file_attributes": {},
+    "regions": {
+      "0": {
+        "shape_attributes": {
+          "name": "polygon",
+          "all_points_x": [
+            1310,
+            1483,
+            3128,
+            3978,
+            2847,
+            2207,
+            1800,
+            1531,
+            1394,
+            1310
+          ],
+          "all_points_y": [
+            138,
+            538,
+            2955,
+            2949,
+            1597,
+            831,
+            389,
+            173,
+            126,
+            138
+          ]
+        },
+        "region_attributes": {
+          "Object": "1"
+        }
+      }
+    }
+  },
+  "579.jpg2475212": {
+    "fileref": "",
+    "size": 2475212,
+    "filename": "579.jpg",
+    "base64_img_data": "",
+    "file_attributes": {},
+    "regions": {
+      "0": {
+        "shape_attributes": {
+          "name": "polygon",
+          "all_points_x": [
+            2763,
+            2763,
+            2826,
+            2925,
+            3059,
+            3266,
+            3257,
+            2763
+          ],
+          "all_points_y": [
+            9,
+            1050,
+            1104,
+            1113,
+            1139,
+            1059,
+            18,
+            9
+          ]
+        },
+        "region_attributes": {
+          "Object": "1"
+        }
+      },
+      "1": {
+        "shape_attributes": {
+          "name": "polygon",
+          "all_points_x": [
+            2808,
+            2898,
+            3463,
+            3284,
+            3176,
+            3068,
+            2889,
+            2781,
+            2808
+          ],
+          "all_points_y": [
+            1669,
+            2952,
+            2952,
+            1525,
+            1453,
+            1427,
+            1480,
+            1597,
+            1669
+          ]
+        },
+        "region_attributes": {
+          "Object": "1"
+        }
+      }
+    }
+  },
+  "695.jpg2432156": {
+    "fileref": "",
+    "size": 2432156,
+    "filename": "695.jpg",
+    "base64_img_data": "",
+    "file_attributes": {},
+    "regions": {
+      "0": {
+        "shape_attributes": {
+          "name": "polygon",
+          "all_points_x": [
+            942,
+            3239,
+            4531,
+            2126,
+            942
+          ],
+          "all_points_y": [
+            2943,
+            18,
+            27,
+            2970,
+            2943
+          ]
+        },
+        "region_attributes": {
+          "Object": "1"
+        }
+      }
+    }
+  },
+  "544.jpg6626190": {
+    "fileref": "",
+    "size": 6626190,
+    "filename": "544.jpg",
+    "base64_img_data": "",
+    "file_attributes": {},
+    "regions": {
+      "0": {
+        "shape_attributes": {
+          "name": "polygon",
+          "all_points_x": [
+            1633,
+            2500,
+            2817,
+            2859,
+            2775,
+            2572,
+            2321,
+            2070,
+            1633
+          ],
+          "all_points_y": [
+            18,
+            1962,
+            2482,
+            2422,
+            1980,
+            1352,
+            634,
+            12,
+            18
+          ]
+        },
+        "region_attributes": {
+          "Object": "1"
+        }
+      }
+    }
+  },
+  "497.jpg6827235": {
+    "fileref": "",
+    "size": 6827235,
+    "filename": "497.jpg",
+    "base64_img_data": "",
+    "file_attributes": {},
+    "regions": {
+      "0": {
+        "shape_attributes": {
+          "name": "polygon",
+          "all_points_x": [
+            9,
+            1911,
+            1893,
+            1848,
+            1848,
+            1848,
+            1732,
+            556,
+            27,
+            9
+          ],
+          "all_points_y": [
+            1050,
+            1238,
+            1373,
+            1651,
+            1938,
+            2046,
+            2108,
+            1992,
+            2055,
+            1050
+          ]
+        },
+        "region_attributes": {
+          "Object": "1"
+        }
+      },
+      "1": {
+        "shape_attributes": {
+          "name": "polygon",
+          "all_points_x": [
+            3131,
+            3059,
+            2467,
+            2485,
+            2566,
+            2772,
+            2997,
+            3068,
+            3203,
+            4154,
+            3131
+          ],
+          "all_points_y": [
+            18,
+            188,
+            978,
+            1050,
+            1086,
+            1175,
+            1373,
+            1480,
+            1444,
+            27,
+            18
+          ]
+        },
+        "region_attributes": {
+          "Object": "1"
+        }
+      },
+      "2": {
+        "shape_attributes": {
+          "name": "polygon",
+          "all_points_x": [
+            2458,
+            2279,
+            2449,
+            2736,
+            2988,
+            3050,
+            3329,
+            3463,
+            2521,
+            2458
+          ],
+          "all_points_y": [
+            2817,
+            2458,
+            2413,
+            2342,
+            2162,
+            2108,
+            2656,
+            2961,
+            2952,
+            2817
+          ]
+        },
+        "region_attributes": {
+          "Object": "1"
+        }
+      }
+    }
+  },
+  "474.jpg2194811": {
+    "fileref": "",
+    "size": 2194811,
+    "filename": "474.jpg",
+    "base64_img_data": "",
+    "file_attributes": {},
+    "regions": {
+      "0": {
+        "shape_attributes": {
+          "name": "polygon",
+          "all_points_x": [
+            2701,
+            1651,
+            1965,
+            3356,
+            2701
+          ],
+          "all_points_y": [
+            18,
+            2952,
+            2952,
+            18,
+            18
+          ]
+        },
+        "region_attributes": {
+          "Object": "1"
+        }
+      }
+    }
+  },
+  "458.jpg1797307": {
+    "fileref": "",
+    "size": 1797307,
+    "filename": "458.jpg",
+    "base64_img_data": "",
+    "file_attributes": {},
+    "regions": {
+      "0": {
+        "shape_attributes": {
+          "name": "polygon",
+          "all_points_x": [
+            2979,
+            816,
+            1139,
+            3149,
+            3158,
+            3095,
+            2979
+          ],
+          "all_points_y": [
+            1059,
+            2952,
+            2961,
+            1193,
+            1077,
+            1032,
+            1059
+          ]
+        },
+        "region_attributes": {
+          "Object": "1"
+        }
+      },
+      "1": {
+        "shape_attributes": {
+          "name": "polygon",
+          "all_points_x": [
+            3230,
+            3104,
+            3006,
+            3239,
+            3391,
+            3230
+          ],
+          "all_points_y": [
+            9,
+            386,
+            969,
+            996,
+            27,
+            9
+          ]
+        },
+        "region_attributes": {
+          "Object": "1"
+        }
+      },
+      "2": {
+        "shape_attributes": {
+          "name": "polygon",
+          "all_points_x": [
+            3059,
+            3284,
+            3400,
+            3221,
+            3122,
+            3059
+          ],
+          "all_points_y": [
+            1355,
+            2611,
+            2593,
+            1202,
+            1220,
+            1355
+          ]
+        },
+        "region_attributes": {
+          "Object": "1"
+        }
+      }
+    }
+  },
+  "636.jpg6841929": {
+    "fileref": "",
+    "size": 6841929,
+    "filename": "636.jpg",
+    "base64_img_data": "",
+    "file_attributes": {},
+    "regions": {
+      "0": {
+        "shape_attributes": {
+          "name": "polygon",
+          "all_points_x": [
+            9,
+            5258,
+            5249,
+            27,
+            9
+          ],
+          "all_points_y": [
+            278,
+            915,
+            2234,
+            1480,
+            278
+          ]
+        },
+        "region_attributes": {
+          "Object": "1"
+        }
+      }
+    }
+  },
+  "481.jpg1755961": {
+    "fileref": "",
+    "size": 1755961,
+    "filename": "481.jpg",
+    "base64_img_data": "",
+    "file_attributes": {},
+    "regions": {
+      "0": {
+        "shape_attributes": {
+          "name": "polygon",
+          "all_points_x": [
+            1848,
+            1839,
+            1902,
+            1992,
+            2126,
+            2126,
+            2073,
+            1848
+          ],
+          "all_points_y": [
+            18,
+            888,
+            987,
+            1032,
+            987,
+            628,
+            9,
+            18
+          ]
+        },
+        "region_attributes": {
+          "Object": "1"
+        }
+      },
+      "1": {
+        "shape_attributes": {
+          "name": "polygon",
+          "all_points_x": [
+            1839,
+            2037,
+            2171,
+            2144,
+            2126,
+            1839
+          ],
+          "all_points_y": [
+            1148,
+            2925,
+            2952,
+            1400,
+            1086,
+            1148
+          ]
+        },
+        "region_attributes": {
+          "Object": "1"
+        }
+      },
+      "2": {
+        "shape_attributes": {
+          "name": "polygon",
+          "all_points_x": [
+            4064,
+            4001,
+            3948,
+            4055,
+            4118,
+            4118,
+            4064
+          ],
+          "all_points_y": [
+            63,
+            197,
+            933,
+            924,
+            188,
+            27,
+            63
+          ]
+        },
+        "region_attributes": {
+          "Object": "1"
+        }
+      }
+    }
+  },
+  "517.jpg1460502": {
+    "fileref": "",
+    "size": 1460502,
+    "filename": "517.jpg",
+    "base64_img_data": "",
+    "file_attributes": {},
+    "regions": {
+      "0": {
+        "shape_attributes": {
+          "name": "polygon",
+          "all_points_x": [
+            2324,
+            2037,
+            1754,
+            1364,
+            1830,
+            2499,
+            2768,
+            2642,
+            2503,
+            2360,
+            2324
+          ],
+          "all_points_y": [
+            426,
+            1270,
+            1871,
+            2952,
+            2952,
+            1323,
+            597,
+            516,
+            480,
+            408,
+            426
+          ]
+        },
+        "region_attributes": {
+          "Object": "1"
+        }
+      }
+    }
+  },
+  "640.jpg6613316": {
+    "fileref": "",
+    "size": 6613316,
+    "filename": "640.jpg",
+    "base64_img_data": "",
+    "file_attributes": {},
+    "regions": {
+      "0": {
+        "shape_attributes": {
+          "name": "polygon",
+          "all_points_x": [
+            550,
+            2602,
+            4624,
+            2207,
+            550
+          ],
+          "all_points_y": [
+            0,
+            2943,
+            2955,
+            12,
+            0
+          ]
+        },
+        "region_attributes": {
+          "Object": "1"
+        }
+      }
+    }
+  },
+  "643.jpg6352674": {
+    "fileref": "",
+    "size": 6352674,
+    "filename": "643.jpg",
+    "base64_img_data": "",
+    "file_attributes": {},
+    "regions": {
+      "0": {
+        "shape_attributes": {
+          "name": "polygon",
+          "all_points_x": [
+            1962,
+            2895,
+            2937,
+            2123,
+            2022,
+            1962
+          ],
+          "all_points_y": [
+            981,
+            951,
+            2955,
+            2949,
+            1860,
+            981
+          ]
+        },
+        "region_attributes": {
+          "Object": "1"
+        }
+      }
+    }
+  },
+  "430.jpg3041719": {
+    "fileref": "",
+    "size": 3041719,
+    "filename": "430.jpg",
+    "base64_img_data": "",
+    "file_attributes": {},
+    "regions": {
+      "0": {
+        "shape_attributes": {
+          "name": "polygon",
+          "all_points_x": [
+            0,
+            2001,
+            2055,
+            1723,
+            54,
+            18,
+            0
+          ],
+          "all_points_y": [
+            834,
+            816,
+            1373,
+            1373,
+            1355,
+            1346,
+            834
+          ]
+        },
+        "region_attributes": {
+          "Object": "1"
+        }
+      },
+      "1": {
+        "shape_attributes": {
+          "name": "polygon",
+          "all_points_x": [
+            2889,
+            2413,
+            2369,
+            2530,
+            2611,
+            2853,
+            3957,
+            2943,
+            2889
+          ],
+          "all_points_y": [
+            161,
+            646,
+            888,
+            978,
+            1095,
+            1104,
+            0,
+            27,
+            161
+          ]
+        },
+        "region_attributes": {
+          "Object": "1"
+        }
+      },
+      "2": {
+        "shape_attributes": {
+          "name": "polygon",
+          "all_points_x": [
+            2772,
+            2629,
+            3104,
+            3679,
+            3993,
+            3409,
+            2970,
+            2772
+          ],
+          "all_points_y": [
+            1211,
+            1741,
+            2324,
+            2961,
+            2952,
+            1785,
+            1489,
+            1211
+          ]
+        },
+        "region_attributes": {
+          "Object": "1"
+        }
+      }
+    }
+  },
+  "635.jpg6663689": {
+    "fileref": "",
+    "size": 6663689,
+    "filename": "635.jpg",
+    "base64_img_data": "",
+    "file_attributes": {},
+    "regions": {
+      "0": {
+        "shape_attributes": {
+          "name": "polygon",
+          "all_points_x": [
+            24,
+            1346,
+            1645,
+            1621,
+            1764,
+            1711,
+            1047,
+            161,
+            6,
+            24
+          ],
+          "all_points_y": [
+            138,
+            179,
+            197,
+            347,
+            736,
+            772,
+            724,
+            945,
+            915,
+            138
+          ]
+        },
+        "region_attributes": {
+          "Object": "1"
+        }
+      },
+      "1": {
+        "shape_attributes": {
+          "name": "polygon",
+          "all_points_x": [
+            2542,
+            2016,
+            2052,
+            2375,
+            2530,
+            2632,
+            2889,
+            3637,
+            3846,
+            2835,
+            2542
+          ],
+          "all_points_y": [
+            2213,
+            975,
+            873,
+            730,
+            724,
+            891,
+            1489,
+            2452,
+            2937,
+            2961,
+            2213
+          ]
+        },
+        "region_attributes": {
+          "Object": "1"
+        }
+      },
+      "2": {
+        "shape_attributes": {
+          "name": "polygon",
+          "all_points_x": [
+            2165,
+            2590,
+            2835,
+            2165
+          ],
+          "all_points_y": [
+            6,
+            335,
+            30,
+            6
+          ]
+        },
+        "region_attributes": {
+          "Object": "1"
+        }
+      }
+    }
+  },
+  "693.jpg6702878": {
+    "fileref": "",
+    "size": 6702878,
+    "filename": "693.jpg",
+    "base64_img_data": "",
+    "file_attributes": {},
+    "regions": {
+      "0": {
+        "shape_attributes": {
+          "name": "polygon",
+          "all_points_x": [
+            1005,
+            2073,
+            2467,
+            2745,
+            2781,
+            2530,
+            1947,
+            1821,
+            1005
+          ],
+          "all_points_y": [
+            2916,
+            1579,
+            1157,
+            1068,
+            1121,
+            1705,
+            2683,
+            2943,
+            2916
+          ]
+        },
+        "region_attributes": {
+          "Object": "1"
+        }
+      }
+    }
+  },
+  "436.jpg1789242": {
+    "fileref": "",
+    "size": 1789242,
+    "filename": "436.jpg",
+    "base64_img_data": "",
+    "file_attributes": {},
+    "regions": {
+      "0": {
+        "shape_attributes": {
+          "name": "polygon",
+          "all_points_x": [
+            3517,
+            2135,
+            1750,
+            1660,
+            1938,
+            3643,
+            3517
+          ],
+          "all_points_y": [
+            27,
+            2037,
+            2593,
+            2952,
+            2952,
+            45,
+            27
+          ]
+        },
+        "region_attributes": {
+          "Object": "1"
+        }
+      }
+    }
+  },
+  "435.jpg6559780": {
+    "fileref": "",
+    "size": 6559780,
+    "filename": "435.jpg",
+    "base64_img_data": "",
+    "file_attributes": {},
+    "regions": {
+      "0": {
+        "shape_attributes": {
+          "name": "polygon",
+          "all_points_x": [
+            1089,
+            2865,
+            4175,
+            1830,
+            1089
+          ],
+          "all_points_y": [
+            18,
+            2949,
+            2961,
+            12,
+            18
+          ]
+        },
+        "region_attributes": {
+          "Object": "1"
+        }
+      }
+    }
+  },
+  "689.jpg1651446": {
+    "fileref": "",
+    "size": 1651446,
+    "filename": "689.jpg",
+    "base64_img_data": "",
+    "file_attributes": {},
+    "regions": {
+      "0": {
+        "shape_attributes": {
+          "name": "polygon",
+          "all_points_x": [
+            2189,
+            1875,
+            1615,
+            1104,
+            1606,
+            2422,
+            2674,
+            2431,
+            2189
+          ],
+          "all_points_y": [
+            9,
+            915,
+            1409,
+            2952,
+            2961,
+            763,
+            63,
+            9,
+            9
+          ]
+        },
+        "region_attributes": {
+          "Object": "1"
+        }
+      }
+    }
+  },
+  "700.jpg3807858": {
+    "fileref": "",
+    "size": 3807858,
+    "filename": "700.jpg",
+    "base64_img_data": "",
+    "file_attributes": {},
+    "regions": {
+      "0": {
+        "shape_attributes": {
+          "name": "polygon",
+          "all_points_x": [
+            2037,
+            2566,
+            2745,
+            2754,
+            2665,
+            2342,
+            2108,
+            1884,
+            2037
+          ],
+          "all_points_y": [
+            2611,
+            1678,
+            1462,
+            1507,
+            1803,
+            2503,
+            2961,
+            2952,
+            2611
+          ]
+        },
+        "region_attributes": {
+          "Object": "1"
+        }
+      }
+    }
+  }
+}
